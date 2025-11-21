@@ -1,0 +1,15 @@
+Msex: GCA_014839805.1: lepidoptera
+Delp: GCA_949752825.1: lepidoptera
+Lcon: GCA_949316025.1: lepidoptera
+Spin: GCA_947568825.1: lepidoptera
+Sric: GCA_014132275.2: lepidoptera
+Ayam: GCA_036509395.1: lepidoptera
+Hmet: GCA_046523875.1: lepidoptera
+Sjap: GCA_033032175.1: lepidoptera
+Spav: GCA_947532125.1: lepidoptera
+Gisa: GCA_964265105.1: lepidoptera
+Aper: GCA_015888305.1: lepidoptera
+Aass: GCA_035772565.1: lepidoptera
+Alun: GCA_039707435.1: lepidoptera
+Auio: GCA_036320925.1: lepidoptera
+Amyl: GCA_014332785.1: lepidoptera

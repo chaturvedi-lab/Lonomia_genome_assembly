@@ -1,0 +1,41 @@
+path_to_data: ""
+sample_map: "maps/samples.txt"
+
+
+ncbi_map: "maps/ncbi.txt"
+
+blast: 
+  query: "veiga_lonomia_cDNA.fasta"
+
+
+minimap_genomes: "maps/minimap_genomes.txt"
+minimap_cDNA: "maps/minimap_cDNA.txt"
+minimap_genomes_cDNA: "maps/minmap_genome_cDNA.txt"
+cdna_id: "maps/cDNA_id.txt"
+
+scripts:
+  blast: "/global/scratch/users/diler/scripts/blast.sh"
+  synteny_paf: "/global/scratch/users/diler/scripts/synteny_paf.r"
+  synteny_paf2: "/global/scratch/users/diler/scripts/synteny_paf2.r"
+
+environments:
+  seqkit: "~/seqkit.yml"
+  samtools: "~/samtools.yml"
+  r-base: "~/r-base.yml"
+  fastqc: "~/fastqc.yml"
+  quast: "~/quast.yml"
+  ncbi_datasets: "~/ncbi_datasets.yml"
+  python2.7.8: "~/python2.7.8.yml"
+  bowtie2: "~/bowtie2.yml"
+  compleasm: "~/compleasm.yml"
+  blast: "~/blast.yml"
+  minimap: "~/minimap.yml"
+  
+  
+singularity: 
+  compleasm: "docker://huangnengcsu/compleasm:v0.2.6"
+
+#############################################################################################################################################################################################################
+
+default_resources:
+  ""

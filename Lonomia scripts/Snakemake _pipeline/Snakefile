@@ -1,0 +1,27 @@
+import os
+configfile: "config.yml"
+
+include: "rules/common.smk"
+include: "rules/get_genomes.smk"
+include: "rules/compleasm.smk"
+include: "rules/tree.smk"
+include: "rules/blast.smk"
+include: "rules/minimap.smk"
+include: "rules/mito.smk"
+
+rule all:
+    input:
+        #unpack(all_input),
+        #expand("phylogeny/compleasm/{ncbi}", ncbi=NCBI)
+        #expand("minimap/{minig}_faidx.done", minig=MINIG),
+        #expand("minimap/{minig}.paf", minig=MINIG)
+        #expand("minimap_dotplot/{minig}.png", minig=MINIG),
+        #expand("minimap_cDNA/{minic}.paf", minic=MINIC),
+        #expand("minimap_dotplot2/{minig}.png", minig=MINIG)
+        #expand("blast2/{minic}.txt", minic=MINIC)
+        "lino_mitogenome.fasta"
+
+localrules: all
+
+
+

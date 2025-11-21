@@ -1,0 +1,17 @@
+cDNAveiga_Msex: veiga_lonomia_cDNA,Msex
+cDNAveiga_Delp: veiga_lonomia_cDNA,Delp
+cDNAveiga_Lcon: veiga_lonomia_cDNA,Lcon
+cDNAveiga_Spin: veiga_lonomia_cDNA,Spin
+cDNAveiga_Sric: veiga_lonomia_cDNA,Sric
+cDNAveiga_Ayam: veiga_lonomia_cDNA,Ayam
+cDNAveiga_Hmet: veiga_lonomia_cDNA,Hmet
+cDNAveiga_Sjap: veiga_lonomia_cDNA,Sjap
+cDNAveiga_Spav: veiga_lonomia_cDNA,Spav
+cDNAveiga_Gisa: veiga_lonomia_cDNA,Gisa
+cDNAveiga_Aper: veiga_lonomia_cDNA,Aper
+cDNAveiga_Aass: veiga_lonomia_cDNA,Aass
+cDNAveiga_Alun: veiga_lonomia_cDNA,Alun
+cDNAveiga_Auio: veiga_lonomia_cDNA,Auio
+cDNAveiga_Amyl: veiga_lonomia_cDNA,Amyl
+cDNAveiga_lonomia_hap1: veiga_lonomia_cDNA,lonomia_hap1
+cDNAveiga_lonomia_hap2: veiga_lonomia_cDNA,lonomia_hap2
