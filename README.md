@@ -3,4 +3,5 @@ The repository is associated with the manuscript "Genome assembly and venom gene
 
 Lonomia scripts folder: Contains scripts for analyses of venom genes and contructing the mitochondrial genome.
 lonomia_genome_assembly_pipeline_v1.md : Markdown file contains details of the genome assembly using PacBio data. All the slurm scripts used to run this pipeline are provided in this markdown file.
+Lonomia_genome_annotation_pipeline.md : Markdown file contains details of the genome annotation of the primary assembly.
 
